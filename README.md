@@ -62,8 +62,7 @@ and by whom are easily available.
 ## Stack used
 
 ### Frontend
-- VueJS
-- SCSS
+- React Js
 
 ### Backend
 - NodeJS (Express)
